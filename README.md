@@ -1,5 +1,7 @@
 # Aplicación To-Do por comandos
 
+![app_to-do](https://user-images.githubusercontent.com/72708265/99314243-15f13480-2861-11eb-8c42-8c44ebcc1f99.png)
+
 Con este ejercicio creado en NodeJS podremos crear una lista de tareas por hacer, visualizar la lista con sus estados, cambiar el estado de cada tarea y/o poder borrarlas.
 
 Las tareas se almacenan en un archivo .json simulando una base de datos.
