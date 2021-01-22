@@ -7,7 +7,7 @@ Con este ejercicio creado en NodeJS podremos crear una lista de tareas por hacer
 Las tareas se almacenan en un archivo .json simulando una base de datos.
 Se ha utilizado los módulos yargs y color.
 
-Para utilizar esta aplicación deberemos reconstruir los paquetes de node
+Recuerde reconstruir los paquetes de node para su uso
 ```
 npm install
 ```
